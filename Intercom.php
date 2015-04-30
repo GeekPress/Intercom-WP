@@ -212,7 +212,7 @@ class Intercom
 		}
 		return self::$_instance;
 	}
-	
+
 	/**
      * Get all admins from your Intercom account.
      *
@@ -221,7 +221,7 @@ class Intercom
 	public function getAdmins() {
 		return self::getData( 'admins/' );
 	}
-	
+
 	/**
      * Get a specific user from your Intercom account.
      * A user can be fetched using a user_id or email
@@ -260,7 +260,7 @@ class Intercom
 
 		return self::getData( $path );
     }
-    
+
     /**
      * Get a specific segment by its ID from your Intercom account.
      *
