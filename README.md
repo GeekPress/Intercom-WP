@@ -21,4 +21,4 @@ Changelog
 
 * Initial Commit
 
-Made with love by [WP Rocket](wp-rocket.me).
+Made with love by [WP Rocket](http://wp-rocket.me).
